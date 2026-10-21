@@ -1,0 +1,2 @@
+Reflection
+The automated static analysis of the original file identified only one issue: an unused variable (USER). In contrast, the manual static review identified multiple additional defects, including logic errors, incorrect function calls, missing PIN validation, and requirement violations. This demonstrates that automated tools are effective at finding code quality issues, but manual static testing is still necessary to identify functional and business logic defects that automated analysis may not detect.
